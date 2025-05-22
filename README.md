@@ -3,19 +3,9 @@
 ## 📌 Objetivo do Projeto
 Desenvolver uma aplicação em **Python** que simule o comportamento de **filas com múltiplos servidores (_modelo M/M/c_)**, utilizando dados reais ou simulados (_CSV_). O projeto envolve análise estatística dos dados e aplicação de metodologias ágeis de desenvolvimento com base no **Scrum**.
 
-## 👥 Grupo
-O projeto deve ser desenvolvido por **3 a 5 integrantes** e será avaliado em diferentes disciplinas conforme suas entregas específicas.
-
-## 🎯 Entregas e Avaliação
-- **40%** - Apresentação (seminário de até 10 minutos)
-- **20%** - Avaliação de pares dentro do grupo
-- **40%** - Entregas específicas de cada disciplina
-
 ## 🏥 Contexto do Projeto
-Escolha **um** dos seguintes cenários para modelagem e análise:
-1. **Clínica de vacinação**
-2. **Restaurante universitário**
-3. **Central de suporte técnico**
+**Restaurante universitário**
+**Central de suporte técnico**
 
 ---
 
@@ -106,12 +96,6 @@ Gráficos de:
 - **Repositório Git** com histórico organizado
 - **Commits** separados por tarefa e com mensagens claras
 - **Branches** para cada componente (_simulacao, estatistica, interface_)
-
-### 📂 Entregáveis
-- Código das simulações (_Python_)
-- Código das análises estatísticas
-- Documentação Scrum e estatística
-- Registro do Git (_prints do histórico de commits, branches e merges_)
 
 ---
 
