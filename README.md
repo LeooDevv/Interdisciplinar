@@ -118,5 +118,5 @@ Gráficos de:
 ## 🏁 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/N2_Interdisciplinar.git
-   cd N2_Interdisciplinar
+   git clone https://github.com/Interdisciplinar/Interdisciplinar.git
+
