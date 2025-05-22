@@ -5,7 +5,6 @@ Desenvolver uma aplicação em **Python** que simule o comportamento de **filas 
 
 ## 🏥 Contexto do Projeto
 **Restaurante universitário**
-**Central de suporte técnico**
 
 ---
 
